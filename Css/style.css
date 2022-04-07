@@ -95,11 +95,12 @@ input[type="submit"]:hover {
 .logout {
     width: 8%;
     border-radius: 5px;
+    border: 1px solid white;
 }
 
 .logout:hover {
     background: rgb(255, 43, 43);
-    border: 1px solid rgb(248, 91, 63);
+    border: 1px solid rgb(248, 91, 63); 
 }
 
 .menu_item > a {
